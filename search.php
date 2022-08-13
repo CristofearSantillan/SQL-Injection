@@ -72,8 +72,6 @@ body {
 <div class="topnav">
   <a class="active" href="javascript:history.back()">Home</a>
   <a class="topright" href="index.html">Log Out</a>
-</head>
-<body>
 	
 <div class="wrapper">
 	<form action="searchingBook.php" autocomplete="off" method="post">
